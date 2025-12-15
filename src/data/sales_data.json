@@ -1,0 +1,22 @@
+[
+  {
+    "id": "TXN-000001",
+    "date": "2024-01-15",
+    "product": "Laptop Pro",
+    "category": "Electronics",
+    "region": "North",
+    "amount": 1299.99,
+    "quantity": 1,
+    "customerId": "C00123"
+  },
+  {
+    "id": "TXN-000002",
+    "date": "2024-01-16",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "region": "South",
+    "amount": 29.99,
+    "quantity": 2,
+    "customerId": "C00456"
+  }
+]
