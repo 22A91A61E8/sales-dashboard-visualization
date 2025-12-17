@@ -6,7 +6,7 @@ An interactive data visualization dashboard built with React and Recharts for ex
 
 ## 🌐 Live Demo
 
-**Deployed URL:** [Coming Soon - Will be deployed on Vercel]
+**Deployed URL:** [🔗 Live Dashboard](https://22a91a61e8.github.io/sales-dashboard-visualization/)
 
 ## 📽️ Demo Video
 
