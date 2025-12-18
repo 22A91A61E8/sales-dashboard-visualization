@@ -10,7 +10,7 @@ An interactive data visualization dashboard built with React and Recharts for ex
 
 ## 📽️ Demo Video
 
-**Video Link:** [Coming Soon - 2-4 minute demonstration]
+**Video Link:** [📹 Watch Demo Video](https://drive.google.com/file/d/1OSvGvZxHru3AUioCLTV05qolDbiBb87C/view?usp=sharing)
 
 ## ✨ Features
 
